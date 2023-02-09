@@ -4,7 +4,6 @@
 <h3 align="center">Cybersecurity Expert | Penetration Tester | CTF Player</h3>
 
 ## 🙋‍♂️ About Me
----
 
 - 📚 Currently working at \*\*\*\*\*
 - ✍️ Learning about *forensic analysis*
@@ -12,7 +11,6 @@
 - 📫 Reach me at **https://t.me/n4kama**
 
 ## 🛠️ My Skills
----
 
 - **Web Application Penetration Testing**
 - **Network Penetration Testing**
@@ -20,7 +18,6 @@
 - **Malware Analysis**
 
 ## 🙊 Languages
----
 
 <p align="left"> 
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
@@ -36,7 +33,6 @@
 </p>
 
 ## 📈 Random stats
----
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=n4kama&theme=gruvbox)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
