@@ -11,6 +11,8 @@
 - 🕵️‍♂️ My blog is available at **[blog.baguet.org](https://blog.baguet.org/)**
 - 📫 Reach me at **https://t.me/n4kama**
 
+> I only use Github for Forks/PRs. You can find my own Git server at **[git.baguet.org](https://git.baguet.org/)**.
+
 ## 🛠️ Skills
 
 - **Web Application Penetration Testing**
