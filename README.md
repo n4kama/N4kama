@@ -1,4 +1,4 @@
-<p align="center"><img width="50%" height="auto" src="./nakama.gif"/></p>
+<p align="center"><img width="50%" height="auto" src="https://media.tenor.com/I4ydqsPDx2QAAAAC/squirtle-pokemon.gif"/></p>
 
 <h1 align="center">Nakama</h1>
 <h3 align="center">Cybersecurity Expert | Penetration Tester | SysAdmin</h3>
