@@ -18,7 +18,7 @@
 - **Network Administration**
 - **Virtualization (ESXi, Proxmox, Docker)**
 - **DevOps CI/CD**
-- **Infrastructure as Code**
+- **Infrastructure as Code** ([Ansible](https://www.ansible.com/), [Nix/NixOS](https://nixos.org/))
 
 ---
 
