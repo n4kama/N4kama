@@ -31,6 +31,7 @@
 - **Network Penetration Testing**
 - **Reverse Engineering**
 - **Malware Analysis**
+- **Security Audits**
 
 ## 🙊 Languages
 
