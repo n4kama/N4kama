@@ -3,12 +3,11 @@
 <h1 align="center">Nakama</h1>
 <h3 align="center">Cybersecurity Expert | Project Manager | SysAdmin</h3>
 
-<h3 align="center">▶️ I only use Github for Forks/PRs. You can find my own Git server at <a href="https://git.baguet.org">git.baguet.org</a>. ◀️</h3>
+<h3 align="center">▶️ I only use Github for Forks/PRs. Refer to <a href="https://codeberg.org/nakama">nakama at Codeberg</a> now. ◀️</h3>
 
 ## 🙋‍♂️ About Me
 
-- 📚 Currently working at Aubay (France)
-- 🚀 My website is available at **[romain.baguet.org](https://romain.baguet.org/)**
+- 📚 Currently working at Squad (France)
 - 🕵️‍♂️ My blog is available at **[blog.baguet.org](https://blog.baguet.org/)**
 - 📫 Reach me at **https://t.me/n4kama**
 
@@ -35,7 +34,7 @@
 
 ## 🙊 Languages
 
-Spent many years as a developer. Started with low-level languages like [C](https://en.cppreference.com/w/c/language) and [C++](https://en.cppreference.com/w/cpp), then moved to higher-level languages like [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), [Java](https://www.java.com), [Python](https://www.python.org/), [Bash](https://www.gnu.org/software/bash/manual/bash.html), [Powershell](https://learn.microsoft.com/en-us/powershell/) and [*Web Languages*](https://leftoversalad.com/c/015_programmingpeople/).
+Spent many years as a developer. Started with low-level languages like [C](https://en.cppreference.com/w/c/language) and [C++](https://en.cppreference.com/w/cpp), then moved to higher-level languages like [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), [Java](https://www.java.com), [Python](https://www.python.org/), [Bash](https://www.gnu.org/software/bash/manual/bash.html), [Powershell](https://learn.microsoft.com/en-us/powershell/) and [_Web Languages_](https://leftoversalad.com/c/015_programmingpeople/).
 
 I've gained proficiency in many languages through small personal projects.
 
